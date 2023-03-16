@@ -49,7 +49,7 @@ Problem:
   Villain: The Car Dealer
 
 Guide:
-  Discovered: Drivly API
+  Discovered: Drivly APIs
   
 Plan:
   Create: A Virtual Dealership in the Cloud
@@ -68,3 +68,8 @@ Transformation:
   from: Indirect Lender
   to: Vertically Integrated Auto Business
 ```
+
+
+
+
+
