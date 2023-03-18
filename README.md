@@ -1,4 +1,6 @@
-# story.as - Tell Stories in YAML using the StoryBrand Framework
+# story.as
+
+Tell Stories in YAML using the StoryBrand Framework
 
 
 ```yaml
